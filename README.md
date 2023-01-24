@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Solified
+- 👋 Hi, I’m @0xBoom
 - 👀 I’m interested in Web3
 - 🌱 I’m currently working on personal projects
 - 💞️ I’m looking to collaborate on Web3 Projects
